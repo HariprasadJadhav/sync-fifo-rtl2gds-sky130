@@ -14,7 +14,7 @@
 read_liberty /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 
 # ---- Gate-level netlist produced by synthesis.ys (Yosys + sky130 techmap) ----
-read_verilog syn_fifo_netlist_sky130.v
+read_verilog ../Synthesis_yosys/syn_fifo_netlist_sky130.v
 
 # ---- Which module is top -- same idea as `hierarchy -top` in Yosys ----
 link_design syn_fifo

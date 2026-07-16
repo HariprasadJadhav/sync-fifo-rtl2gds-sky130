@@ -45,7 +45,7 @@ gds read /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_s
 lef read /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef
 lef read /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef
 
-def read detailed_route.def
+def read ../Physical_design/detailed_route.def
 
 load syn_fifo
 gds write syn_fifo.gds

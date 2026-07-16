@@ -37,9 +37,9 @@ read_lef /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_s
 # wire for hold; slow device + slow wire for setup).
 read_liberty /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 
-read_verilog syn_fifo_netlist_sky130.v
+read_verilog ../Synthesis_yosys/syn_fifo_netlist_sky130.v
 link_design syn_fifo
-read_sdc syn_fifo.sdc
+read_sdc ../STA/syn_fifo.sdc
 
 #===============================================================
 # STAGE 1: Floorplan

@@ -75,36 +75,23 @@ typical device corners pair with nominal interconnect parasitics.
 ```text
 .
 ├── Images/                          # Screenshots of design flow and results
-│   ├── final GDSII layout.png       # Final ASIC layout in KLayout
-│   ├── final post route view.png    # Routed design after detailed routing
-│   ├── floorplan + powerplan.png    # Floorplan with PDN
-│   └── simulation waveform.png      # RTL simulation results
+│   ├── final_gdsii_layout.png       # Final ASIC layout in KLayout
+│   ├── final_post_route_view.png    # Routed design after detailed routing
+│   ├── floorplan_powerplan.png      # Floorplan with PDN
+│   └── simulation_waveform.png      # RTL simulation results
 │
 ├── Physical_design/                 # OpenROAD physical design flow
-│   ├── floorplan.tcl                # Floorplanning script
-│   ├── powerplan.tcl                # PDN generation (rings, straps)
-│   ├── global_placement.tcl         # Global placement
-│   ├── detailed_placement.tcl       # Legalization and detailed placement
-│   ├── cts.tcl                      # Clock Tree Synthesis
-│   ├── cts_legalized.tcl            # Post-CTS legalization
-│   ├── global_route.tcl             # Global routing
-│   ├── detailed_route.tcl           # Detailed routing
-│   ├── sta_final.tcl                # Post-route STA
 │   ├── design_flow.tcl              # Complete automated implementation flow
 │   ├── detailed_route.def           # Final routed DEF
-│   ├── syn_fifo.sdc                 # Timing constraints
-│   ├── syn_fifo_netlist_sky130.v    # Synthesized gate-level netlist
 │   └── syn_fifo_netlist_postroute.v # Post-route gate-level netlist
 │
 ├── Physical_verification/           # GDS generation and physical verification
 │   ├── gds_out.tcl                  # GDSII generation script
 │   ├── lvs_extract.tcl              # LVS extraction script
-│   ├── detailed_route.def           # Routed DEF for verification
 │   ├── syn_fifo.gds                 # Final GDSII layout
 │   ├── sky130_drc.txt               # DRC report
 │   ├── syn_fifo_lvs.json            # LVS results (JSON)
 │   ├── syn_fifo_lvs.report          # LVS report
-│   └── syn_fifo_netlist_postroute.v # Netlist used for LVS
 │
 ├── RTL/                             # RTL design and functional verification
 │   ├── syn_fifo.v                   # FIFO RTL
@@ -114,7 +101,6 @@ typical device corners pair with nominal interconnect parasitics.
 ├── STA/                             # Static Timing Analysis
 │   ├── sta.tcl                      # STA script
 │   ├── syn_fifo.sdc                 # Timing constraints
-│   └── syn_fifo_netlist_sky130.v    # Gate-level netlist
 │
 ├── Synthesis_yosys/                 # RTL synthesis using Yosys
 │   ├── synthesis.ys                 # Yosys synthesis script
@@ -517,7 +503,7 @@ klayout -b -r <path-to-run_drc_beol.lydrc> syn_fifo.gds
 
 # LVS (Physical_verification/)
 netgen -batch lvs "syn_fifo.spice syn_fifo" \
-  "syn_fifo_netlist_postroute.v syn_fifo" \
+  "../Physical_design/syn_fifo_netlist_postroute.v syn_fifo" \
   <path-to-sky130A_setup.tcl> syn_fifo_lvs.report -json
 ```
 
