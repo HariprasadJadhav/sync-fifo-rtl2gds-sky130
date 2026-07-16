@@ -91,7 +91,7 @@ typical device corners pair with nominal interconnect parasitics.
 │   ├── syn_fifo.gds                 # Final GDSII layout
 │   ├── sky130_drc.txt               # DRC report
 │   ├── syn_fifo_lvs.json            # LVS results (JSON)
-│   ├── syn_fifo_lvs.report          # LVS report
+│   └── syn_fifo_lvs.report          # LVS report
 │
 ├── RTL/                             # RTL design and functional verification
 │   ├── syn_fifo.v                   # FIFO RTL
