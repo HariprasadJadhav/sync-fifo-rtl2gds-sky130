@@ -100,7 +100,7 @@ typical device corners pair with nominal interconnect parasitics.
 │
 ├── STA/                             # Static Timing Analysis
 │   ├── sta.tcl                      # STA script
-│   ├── syn_fifo.sdc                 # Timing constraints
+│   └── syn_fifo.sdc                 # Timing constraints
 │
 ├── Synthesis_yosys/                 # RTL synthesis using Yosys
 │   ├── synthesis.ys                 # Yosys synthesis script
