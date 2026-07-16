@@ -1,0 +1,1994 @@
+
+Circuit 2 cell sky130_fd_sc_hd__edfxtp_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__edfxtp_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__edfxtp_1       |Circuit 2: sky130_fd_sc_hd__edfxtp_1       
+-------------------------------------------|-------------------------------------------
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+CLK                                        |CLK                                        
+DE                                         |DE                                         
+Q                                          |Q                                          
+D                                          |D                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__edfxtp_1 and sky130_fd_sc_hd__edfxtp_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nor3_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nor3_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nor3_1         |Circuit 2: sky130_fd_sc_hd__nor3_1         
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+C                                          |C                                          
+B                                          |B                                          
+A                                          |A                                          
+Y                                          |Y                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nor3_1 and sky130_fd_sc_hd__nor3_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__mux2_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__mux2_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__mux2_1         |Circuit 2: sky130_fd_sc_hd__mux2_1         
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+X                                          |X                                          
+A1                                         |A1                                         
+S                                          |S                                          
+A0                                         |A0                                         
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__mux2_1 and sky130_fd_sc_hd__mux2_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__clkbuf_4 is a black box; will not flatten Circuit 1
+Class sky130_fd_sc_hd__clkbuf_4 (0):  Merged 6 parallel devices.
+Warning: Equate pins:  cell sky130_fd_sc_hd__clkbuf_4 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkbuf_4       |Circuit 2: sky130_fd_sc_hd__clkbuf_4       
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+X                                          |X                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkbuf_4 and sky130_fd_sc_hd__clkbuf_4 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__a21oi_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__a21oi_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__a21oi_1        |Circuit 2: sky130_fd_sc_hd__a21oi_1        
+-------------------------------------------|-------------------------------------------
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+A2                                         |A2                                         
+A1                                         |A1                                         
+B1                                         |B1                                         
+Y                                          |Y                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__a21oi_1 and sky130_fd_sc_hd__a21oi_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__mux4_2 is a black box; will not flatten Circuit 1
+Class sky130_fd_sc_hd__mux4_2 (0):  Merged 2 parallel devices.
+Warning: Equate pins:  cell sky130_fd_sc_hd__mux4_2 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__mux4_2         |Circuit 2: sky130_fd_sc_hd__mux4_2         
+-------------------------------------------|-------------------------------------------
+VNB                                        |VNB                                        
+VPB                                        |VPB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+S0                                         |S0                                         
+A2                                         |A2                                         
+A3                                         |A3                                         
+S1                                         |S1                                         
+A1                                         |A1                                         
+A0                                         |A0                                         
+X                                          |X                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__mux4_2 and sky130_fd_sc_hd__mux4_2 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__xnor2_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__xnor2_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__xnor2_1        |Circuit 2: sky130_fd_sc_hd__xnor2_1        
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+B                                          |B                                          
+Y                                          |Y                                          
+A                                          |A                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__xnor2_1 and sky130_fd_sc_hd__xnor2_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nand4_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nand4_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nand4_1        |Circuit 2: sky130_fd_sc_hd__nand4_1        
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+A                                          |A                                          
+C                                          |C                                          
+D                                          |D                                          
+Y                                          |Y                                          
+B                                          |B                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nand4_1 and sky130_fd_sc_hd__nand4_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__xor2_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__xor2_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__xor2_1         |Circuit 2: sky130_fd_sc_hd__xor2_1         
+-------------------------------------------|-------------------------------------------
+VNB                                        |VNB                                        
+VPB                                        |VPB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+A                                          |A                                          
+X                                          |X                                          
+B                                          |B                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__xor2_1 and sky130_fd_sc_hd__xor2_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__and3_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__and3_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__and3_1         |Circuit 2: sky130_fd_sc_hd__and3_1         
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+X                                          |X                                          
+B                                          |B                                          
+A                                          |A                                          
+C                                          |C                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__and3_1 and sky130_fd_sc_hd__and3_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nor4_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nor4_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nor4_1         |Circuit 2: sky130_fd_sc_hd__nor4_1         
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+Y                                          |Y                                          
+D                                          |D                                          
+C                                          |C                                          
+B                                          |B                                          
+A                                          |A                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nor4_1 and sky130_fd_sc_hd__nor4_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nand3_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nand3_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nand3_1        |Circuit 2: sky130_fd_sc_hd__nand3_1        
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+B                                          |B                                          
+Y                                          |Y                                          
+C                                          |C                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nand3_1 and sky130_fd_sc_hd__nand3_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nor3b_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nor3b_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nor3b_1        |Circuit 2: sky130_fd_sc_hd__nor3b_1        
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+C_N                                        |C_N                                        
+B                                          |B                                          
+Y                                          |Y                                          
+A                                          |A                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nor3b_1 and sky130_fd_sc_hd__nor3b_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__clkinv_2 is a black box; will not flatten Circuit 1
+Class sky130_fd_sc_hd__clkinv_2 (0):  Merged 3 parallel devices.
+Warning: Equate pins:  cell sky130_fd_sc_hd__clkinv_2 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkinv_2       |Circuit 2: sky130_fd_sc_hd__clkinv_2       
+-------------------------------------------|-------------------------------------------
+VNB                                        |VNB                                        
+VPB                                        |VPB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+A                                          |A                                          
+Y                                          |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkinv_2 and sky130_fd_sc_hd__clkinv_2 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__lpflow_isobufsrc_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__lpflow_isobufsrc_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__lpflow_isobufs |Circuit 2: sky130_fd_sc_hd__lpflow_isobufs 
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+SLEEP                                      |SLEEP                                      
+X                                          |X                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__lpflow_isobufsrc_1 and sky130_fd_sc_hd__lpflow_isobufsrc_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__clkinv_1 is a black box; will not flatten Circuit 1
+Class sky130_fd_sc_hd__clkinv_1 (0):  Merged 1 parallel devices.
+Warning: Equate pins:  cell sky130_fd_sc_hd__clkinv_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkinv_1       |Circuit 2: sky130_fd_sc_hd__clkinv_1       
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+Y                                          |Y                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkinv_1 and sky130_fd_sc_hd__clkinv_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nor4b_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nor4b_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nor4b_1        |Circuit 2: sky130_fd_sc_hd__nor4b_1        
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+D_N                                        |D_N                                        
+C                                          |C                                          
+Y                                          |Y                                          
+B                                          |B                                          
+A                                          |A                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nor4b_1 and sky130_fd_sc_hd__nor4b_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__clkbuf_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__clkbuf_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkbuf_1       |Circuit 2: sky130_fd_sc_hd__clkbuf_1       
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+X                                          |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkbuf_1 and sky130_fd_sc_hd__clkbuf_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__clkinvlp_4 is a black box; will not flatten Circuit 1
+Class sky130_fd_sc_hd__clkinvlp_4 (0):  Merged 3 parallel devices.
+Warning: Equate pins:  cell sky130_fd_sc_hd__clkinvlp_4 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkinvlp_4     |Circuit 2: sky130_fd_sc_hd__clkinvlp_4     
+-------------------------------------------|-------------------------------------------
+VNB                                        |VNB                                        
+VPB                                        |VPB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+A                                          |A                                          
+Y                                          |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkinvlp_4 and sky130_fd_sc_hd__clkinvlp_4 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__clkinv_4 is a black box; will not flatten Circuit 1
+Class sky130_fd_sc_hd__clkinv_4 (0):  Merged 8 parallel devices.
+Warning: Equate pins:  cell sky130_fd_sc_hd__clkinv_4 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__clkinv_4       |Circuit 2: sky130_fd_sc_hd__clkinv_4       
+-------------------------------------------|-------------------------------------------
+VNB                                        |VNB                                        
+VPB                                        |VPB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+A                                          |A                                          
+Y                                          |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__clkinv_4 and sky130_fd_sc_hd__clkinv_4 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nor2_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nor2_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nor2_1         |Circuit 2: sky130_fd_sc_hd__nor2_1         
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+B                                          |B                                          
+Y                                          |Y                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nor2_1 and sky130_fd_sc_hd__nor2_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__conb_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__conb_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__conb_1         |Circuit 2: sky130_fd_sc_hd__conb_1         
+-------------------------------------------|-------------------------------------------
+LO                                         |LO                                         
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+HI                                         |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__conb_1 and sky130_fd_sc_hd__conb_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__o21a_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__o21a_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__o21a_1         |Circuit 2: sky130_fd_sc_hd__o21a_1         
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A1                                         |A1                                         
+A2                                         |A2                                         
+B1                                         |B1                                         
+X                                          |X                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__o21a_1 and sky130_fd_sc_hd__o21a_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__dfxtp_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__dfxtp_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__dfxtp_1        |Circuit 2: sky130_fd_sc_hd__dfxtp_1        
+-------------------------------------------|-------------------------------------------
+Q                                          |Q                                          
+CLK                                        |CLK                                        
+D                                          |D                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__dfxtp_1 and sky130_fd_sc_hd__dfxtp_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nand2b_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nand2b_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nand2b_1       |Circuit 2: sky130_fd_sc_hd__nand2b_1       
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A_N                                        |A_N                                        
+B                                          |B                                          
+Y                                          |Y                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nand2b_1 and sky130_fd_sc_hd__nand2b_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__nand2_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__nand2_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__nand2_1        |Circuit 2: sky130_fd_sc_hd__nand2_1        
+-------------------------------------------|-------------------------------------------
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A                                          |A                                          
+Y                                          |Y                                          
+B                                          |B                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__nand2_1 and sky130_fd_sc_hd__nand2_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__and2_0 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__and2_0 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__and2_0         |Circuit 2: sky130_fd_sc_hd__and2_0         
+-------------------------------------------|-------------------------------------------
+VNB                                        |VNB                                        
+VPB                                        |VPB                                        
+VPWR                                       |VPWR                                       
+VGND                                       |VGND                                       
+X                                          |X                                          
+B                                          |B                                          
+A                                          |A                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__and2_0 and sky130_fd_sc_hd__and2_0 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__a41oi_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__a41oi_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__a41oi_1        |Circuit 2: sky130_fd_sc_hd__a41oi_1        
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+A4                                         |A4                                         
+Y                                          |Y                                          
+B1                                         |B1                                         
+A1                                         |A1                                         
+A2                                         |A2                                         
+A3                                         |A3                                         
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__a41oi_1 and sky130_fd_sc_hd__a41oi_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__and4_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__and4_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__and4_1         |Circuit 2: sky130_fd_sc_hd__and4_1         
+-------------------------------------------|-------------------------------------------
+X                                          |X                                          
+C                                          |C                                          
+A                                          |A                                          
+B                                          |B                                          
+D                                          |D                                          
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__and4_1 and sky130_fd_sc_hd__and4_1 are equivalent.
+
+Circuit 2 cell sky130_fd_sc_hd__and4b_1 is a black box; will not flatten Circuit 1
+Warning: Equate pins:  cell sky130_fd_sc_hd__and4b_1 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_sc_hd__and4b_1        |Circuit 2: sky130_fd_sc_hd__and4b_1        
+-------------------------------------------|-------------------------------------------
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+C                                          |C                                          
+A_N                                        |A_N                                        
+X                                          |X                                          
+D                                          |D                                          
+B                                          |B                                          
+VPB                                        |VPB                                        
+VNB                                        |VNB                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_sc_hd__and4b_1 and sky130_fd_sc_hd__and4b_1 are equivalent.
+
+Subcircuit summary:
+Circuit 1: syn_fifo                        |Circuit 2: syn_fifo                        
+-------------------------------------------|-------------------------------------------
+sky130_fd_sc_hd__edfxtp_1 (72)             |sky130_fd_sc_hd__edfxtp_1 (72)             
+sky130_fd_sc_hd__nor3_1 (6)                |sky130_fd_sc_hd__nor3_1 (6)                
+sky130_fd_sc_hd__mux2_1 (8)                |sky130_fd_sc_hd__mux2_1 (8)                
+sky130_fd_sc_hd__clkbuf_4 (9)              |sky130_fd_sc_hd__clkbuf_4 (9)              
+sky130_fd_sc_hd__a21oi_1 (4)               |sky130_fd_sc_hd__a21oi_1 (4)               
+sky130_fd_sc_hd__mux4_2 (16)               |sky130_fd_sc_hd__mux4_2 (16)               
+sky130_fd_sc_hd__xnor2_1 (5)               |sky130_fd_sc_hd__xnor2_1 (5)               
+sky130_fd_sc_hd__nand4_1 (2)               |sky130_fd_sc_hd__nand4_1 (2)               
+sky130_fd_sc_hd__xor2_1 (2)                |sky130_fd_sc_hd__xor2_1 (2)                
+sky130_fd_sc_hd__and3_1 (1)                |sky130_fd_sc_hd__and3_1 (1)                
+sky130_fd_sc_hd__nor4_1 (1)                |sky130_fd_sc_hd__nor4_1 (1)                
+sky130_fd_sc_hd__nand3_1 (1)               |sky130_fd_sc_hd__nand3_1 (1)               
+sky130_fd_sc_hd__nor3b_1 (1)               |sky130_fd_sc_hd__nor3b_1 (1)               
+sky130_fd_sc_hd__clkinv_2 (1)              |sky130_fd_sc_hd__clkinv_2 (2) **Mismatch** 
+sky130_fd_sc_hd__lpflow_isobufsrc_1 (1)    |sky130_fd_sc_hd__lpflow_isobufsrc_1 (1)    
+sky130_fd_sc_hd__clkinv_1 (5)              |sky130_fd_sc_hd__clkinv_1 (4) **Mismatch** 
+sky130_fd_sc_hd__nor4b_1 (1)               |sky130_fd_sc_hd__nor4b_1 (1)               
+sky130_fd_sc_hd__clkbuf_1 (1)              |sky130_fd_sc_hd__clkbuf_1 (1)              
+sky130_fd_sc_hd__clkinvlp_4 (2)            |sky130_fd_sc_hd__clkinvlp_4 (1) **Mismatch 
+sky130_fd_sc_hd__clkinv_4 (1)              |sky130_fd_sc_hd__clkinv_4 (1)              
+sky130_fd_sc_hd__nor2_1 (7)                |sky130_fd_sc_hd__nor2_1 (7)                
+sky130_fd_sc_hd__conb_1 (1)                |sky130_fd_sc_hd__conb_1 (1)                
+sky130_fd_sc_hd__o21a_1 (2)                |sky130_fd_sc_hd__o21a_1 (2)                
+sky130_fd_sc_hd__dfxtp_1 (8)               |sky130_fd_sc_hd__dfxtp_1 (8)               
+sky130_fd_sc_hd__nand2b_1 (1)              |sky130_fd_sc_hd__nand2b_1 (1)              
+sky130_fd_sc_hd__nand2_1 (2)               |sky130_fd_sc_hd__nand2_1 (2)               
+sky130_fd_sc_hd__and2_0 (2)                |sky130_fd_sc_hd__and2_0 (2)                
+sky130_fd_sc_hd__a41oi_1 (2)               |sky130_fd_sc_hd__a41oi_1 (2)               
+sky130_fd_sc_hd__and4_1 (1)                |sky130_fd_sc_hd__and4_1 (1)                
+sky130_fd_sc_hd__and4b_1 (1)               |sky130_fd_sc_hd__and4b_1 (1)               
+(no matching element)                      |sky130_fd_sc_hd__bufinv_16 (1)             
+Number of devices: 167                     |Number of devices: 167                     
+Number of nets: 212 **Mismatch**           |Number of nets: 181 **Mismatch**           
+---------------------------------------------------------------------------------------
+NET mismatches: Class fragments follow (with fanout counts):
+Circuit 1: syn_fifo                        |Circuit 2: syn_fifo                        
+
+---------------------------------------------------------------------------------------
+Net: _363_/VPWR                            |Net: clknet_3_6__leaf_clk                  
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 9       |  sky130_fd_sc_hd__edfxtp_1/CLK = 9        
+  sky130_fd_sc_hd__clkinv_2/VPWR = 1       |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+  sky130_fd_sc_hd__mux2_1/VPWR = 1         |  sky130_fd_sc_hd__bufinv_16/A = 1         
+                                           |                                           
+Net: _363_/VPB                             |Net: wr_ptr[1]                             
+  sky130_fd_sc_hd__edfxtp_1/VPB = 9        |  sky130_fd_sc_hd__xnor2_1/B = 1           
+  sky130_fd_sc_hd__clkinv_2/VPB = 1        |  sky130_fd_sc_hd__nand2_1/A = 1           
+  sky130_fd_sc_hd__mux2_1/VPB = 1          |  sky130_fd_sc_hd__nand2b_1/A_N = 1        
+                                           |  sky130_fd_sc_hd__nor4b_1/D_N = 1         
+                                           |  sky130_fd_sc_hd__nor3b_1/B = 1           
+                                           |  sky130_fd_sc_hd__nor4_1/C = 1            
+                                           |  sky130_fd_sc_hd__and4b_1/C = 1           
+                                           |  sky130_fd_sc_hd__and4_1/C = 1            
+                                           |  sky130_fd_sc_hd__a21oi_1/A1 = 2          
+                                           |  sky130_fd_sc_hd__o21a_1/A1 = 1           
+                                           |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+                                           |                                           
+Net: _361_/VGND                            |Net: _089_                                 
+  sky130_fd_sc_hd__edfxtp_1/VGND = 10      |  sky130_fd_sc_hd__a41oi_1/Y = 1           
+  sky130_fd_sc_hd__mux2_1/VGND = 1         |  sky130_fd_sc_hd__and2_0/B = 1            
+                                           |  sky130_fd_sc_hd__nor2_1/B = 1            
+                                           |  sky130_fd_sc_hd__nand4_1/D = 1           
+                                           |  sky130_fd_sc_hd__edfxtp_1/DE = 8         
+                                           |                                           
+Net: _363_/VGND                            |Net: clknet_3_1__leaf_clk                  
+  sky130_fd_sc_hd__edfxtp_1/VGND = 10      |  sky130_fd_sc_hd__edfxtp_1/CLK = 10       
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+  sky130_fd_sc_hd__clkbuf_1/VGND = 1       |  sky130_fd_sc_hd__clkinv_2/A = 1          
+                                           |                                           
+Net: _377_/VGND                            |Net: clknet_3_3__leaf_clk                  
+  sky130_fd_sc_hd__edfxtp_1/VGND = 4       |  sky130_fd_sc_hd__edfxtp_1/CLK = 10       
+  sky130_fd_sc_hd__clkinv_1/VGND = 1       |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+  sky130_fd_sc_hd__mux2_1/VGND = 2         |  sky130_fd_sc_hd__clkinv_2/A = 1          
+  sky130_fd_sc_hd__mux4_2/VGND = 3         |                                           
+  sky130_fd_sc_hd__clkbuf_4/VGND = 2       |                                           
+                                           |                                           
+Net: _370_/Q                               |Net: clknet_3_7__leaf_clk                  
+  sky130_fd_sc_hd__nor4_1/C = 1            |  sky130_fd_sc_hd__edfxtp_1/CLK = 9        
+  sky130_fd_sc_hd__nor3b_1/B = 1           |  sky130_fd_sc_hd__dfxtp_1/CLK = 3         
+  sky130_fd_sc_hd__xnor2_1/B = 1           |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+  sky130_fd_sc_hd__nor4b_1/D_N = 1         |  sky130_fd_sc_hd__clkbuf_1/A = 1          
+  sky130_fd_sc_hd__o21a_1/A1 = 1           |                                           
+  sky130_fd_sc_hd__a21oi_1/A1 = 2          |                                           
+  sky130_fd_sc_hd__nand2b_1/A_N = 1        |                                           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |                                           
+  sky130_fd_sc_hd__nand2_1/A = 1           |                                           
+  sky130_fd_sc_hd__and4_1/C = 1            |                                           
+  sky130_fd_sc_hd__and4b_1/C = 1           |                                           
+                                           |                                           
+Net: _350_/Q                               |Net: wr_ptr[0]                             
+  sky130_fd_sc_hd__edfxtp_1/VGND = 6       |  sky130_fd_sc_hd__xnor2_1/B = 1           
+  sky130_fd_sc_hd__clkinv_2/VGND = 1       |  sky130_fd_sc_hd__and2_0/A = 1            
+  sky130_fd_sc_hd__mux2_1/VGND = 1         |  sky130_fd_sc_hd__nor3_1/A = 1            
+  sky130_fd_sc_hd__mux4_2/VGND = 2         |  sky130_fd_sc_hd__nor4b_1/A = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__nor4_1/A = 1            
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__and4b_1/A_N = 1         
+                                           |  sky130_fd_sc_hd__and4_1/A = 1            
+                                           |  sky130_fd_sc_hd__nor2_1/A = 1            
+                                           |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+                                           |                                           
+Net: _380_/CLK                             |Net: _083_                                 
+  sky130_fd_sc_hd__clkinv_2/A = 1          |  sky130_fd_sc_hd__nor4b_1/Y = 1           
+  sky130_fd_sc_hd__edfxtp_1/CLK = 10       |  sky130_fd_sc_hd__edfxtp_1/DE = 8         
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+                                           |                                           
+Net: _376_/CLK                             |Net: _086_                                 
+  sky130_fd_sc_hd__edfxtp_1/CLK = 12       |  sky130_fd_sc_hd__lpflow_isobufsrc_1/X =  
+  sky130_fd_sc_hd__clkbuf_1/A = 1          |  sky130_fd_sc_hd__edfxtp_1/DE = 8         
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+                                           |                                           
+Net: _367_/VPWR                            |Net: _082_                                 
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 2       |  sky130_fd_sc_hd__nor3b_1/Y = 1           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 6       |  sky130_fd_sc_hd__edfxtp_1/DE = 8         
+  sky130_fd_sc_hd__clkinv_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPWR = 3        |                                           
+  sky130_fd_sc_hd__o21a_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__a21oi_1/VPWR = 1        |                                           
+                                           |                                           
+Net: _367_/VPB                             |Net: _081_                                 
+  sky130_fd_sc_hd__clkbuf_4/VPB = 2        |  sky130_fd_sc_hd__nor4_1/Y = 1            
+  sky130_fd_sc_hd__edfxtp_1/VPB = 6        |  sky130_fd_sc_hd__edfxtp_1/DE = 8         
+  sky130_fd_sc_hd__clkinv_1/VPB = 1        |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPB = 3         |                                           
+  sky130_fd_sc_hd__o21a_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__a21oi_1/VPB = 1         |                                           
+                                           |                                           
+Net: _274_/Y                               |Net: clknet_3_4__leaf_clk                  
+  sky130_fd_sc_hd__edfxtp_1/DE = 8         |  sky130_fd_sc_hd__edfxtp_1/CLK = 7        
+  sky130_fd_sc_hd__nor4_1/Y = 1            |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+                                           |  sky130_fd_sc_hd__clkinv_4/A = 1          
+                                           |                                           
+Net: _271_/Y                               |Net: clknet_0_clk                          
+  sky130_fd_sc_hd__edfxtp_1/DE = 8         |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+  sky130_fd_sc_hd__nor4b_1/Y = 1           |  sky130_fd_sc_hd__clkbuf_4/A = 8          
+                                           |                                           
+Net: clkbuf_0_clk/X                        |Net: \mem[0] [6]                           
+  sky130_fd_sc_hd__clkbuf_4/A = 8          |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _379_/VGND                            |Net: \mem[0] [4]                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 9       |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+                                           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _369_/Q                               |Net: \mem[0] [3]                           
+  sky130_fd_sc_hd__nor4_1/A = 1            |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__nor4b_1/A = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+  sky130_fd_sc_hd__xnor2_1/B = 1           |                                           
+  sky130_fd_sc_hd__nor3_1/A = 1            |                                           
+  sky130_fd_sc_hd__nor2_1/A = 1            |                                           
+  sky130_fd_sc_hd__and2_0/A = 1            |                                           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |                                           
+  sky130_fd_sc_hd__and4_1/A = 1            |                                           
+  sky130_fd_sc_hd__and4b_1/A_N = 1         |                                           
+                                           |                                           
+Net: _273_/Y                               |Net: \mem[0] [2]                           
+  sky130_fd_sc_hd__nor3b_1/Y = 1           |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__edfxtp_1/DE = 8         |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _272_/X                               |Net: \mem[0] [0]                           
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/X =  |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__edfxtp_1/DE = 8         |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _347_/VPB                             |Net: \mem[0] [7]                           
+  sky130_fd_sc_hd__clkinv_1/VPB = 1        |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 3        |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+  sky130_fd_sc_hd__mux2_1/VPB = 2          |                                           
+  sky130_fd_sc_hd__mux4_2/VPB = 3          |                                           
+                                           |                                           
+Net: _372_/CLK                             |Net: \mem[1] [6]                           
+  sky130_fd_sc_hd__clkinv_4/A = 1          |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__edfxtp_1/CLK = 2        |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+  sky130_fd_sc_hd__dfxtp_1/CLK = 5         |                                           
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+                                           |                                           
+Net: _363_/Q                               |Net: \mem[1] [4]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _362_/Q                               |Net: \mem[1] [3]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _360_/Q                               |Net: \mem[1] [2]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _357_/Q                               |Net: \mem[1] [0]                           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _358_/Q                               |Net: \mem[1] [7]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _356_/Q                               |Net: \mem[0] [5]                           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__mux4_2/A0 = 1           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _354_/Q                               |Net: \mem[2] [6]                           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _349_/Q                               |Net: \mem[2] [4]                           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _352_/Q                               |Net: \mem[2] [3]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _351_/Q                               |Net: \mem[2] [2]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _346_/Q                               |Net: \mem[2] [0]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _344_/Q                               |Net: \mem[2] [7]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _343_/Q                               |Net: \mem[2] [5]                           
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/A2 = 1           
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _342_/Q                               |Net: _079_                                 
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux2_1/X = 1            
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__edfxtp_1/D = 1          
+                                           |                                           
+Net: _347_/Q                               |Net: _077_                                 
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__mux2_1/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__edfxtp_1/D = 1          
+                                           |                                           
+Net: _380_/D                               |Net: _076_                                 
+  sky130_fd_sc_hd__mux2_1/X = 1            |  sky130_fd_sc_hd__mux2_1/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/D = 1          |  sky130_fd_sc_hd__edfxtp_1/D = 1          
+                                           |                                           
+Net: _378_/D                               |Net: _075_                                 
+  sky130_fd_sc_hd__mux2_1/X = 1            |  sky130_fd_sc_hd__mux2_1/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/D = 1          |  sky130_fd_sc_hd__edfxtp_1/D = 1          
+                                           |                                           
+Net: _373_/D                               |Net: _073_                                 
+  sky130_fd_sc_hd__mux2_1/X = 1            |  sky130_fd_sc_hd__mux2_1/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/D = 1          |  sky130_fd_sc_hd__edfxtp_1/D = 1          
+                                           |                                           
+Net: _374_/D                               |Net: _080_                                 
+  sky130_fd_sc_hd__mux2_1/X = 1            |  sky130_fd_sc_hd__mux2_1/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/D = 1          |  sky130_fd_sc_hd__edfxtp_1/D = 1          
+                                           |                                           
+Net: _376_/D                               |Net: \mem[4] [5]                           
+  sky130_fd_sc_hd__edfxtp_1/D = 1          |  sky130_fd_sc_hd__mux4_2/A1 = 1           
+  sky130_fd_sc_hd__mux2_1/X = 1            |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _276_/X                               |Net: \mem[6] [5]                           
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__mux4_2/A3 = 1           
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__edfxtp_1/Q = 1          
+                                           |                                           
+Net: _348_/Q                               |Net: _091_                                 
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__nor3_1/Y = 1            
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__dfxtp_1/D = 1           
+                                           |                                           
+Net: _316_/Q                               |Net: _166_                                 
+  sky130_fd_sc_hd__mux4_2/A3 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux2_1/A1 = 1           
+                                           |                                           
+Net: _332_/Q                               |Net: _170_                                 
+  sky130_fd_sc_hd__mux4_2/A1 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux2_1/A1 = 1           
+                                           |                                           
+Net: _364_/Q                               |Net: _172_                                 
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux2_1/A1 = 1           
+                                           |                                           
+Net: _374_/VGND                            |Net: _174_                                 
+  sky130_fd_sc_hd__mux4_2/VGND = 1         |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/VGND = 1       |  sky130_fd_sc_hd__mux2_1/A1 = 1           
+                                           |                                           
+Net: _236_/X                               |Net: _178_                                 
+  sky130_fd_sc_hd__mux2_1/A1 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A1 = 1           
+                                           |                                           
+Net: _251_/X                               |Net: _192_                                 
+  sky130_fd_sc_hd__mux2_1/A1 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A1 = 1           
+                                           |                                           
+Net: _248_/X                               |Net: _167_                                 
+  sky130_fd_sc_hd__mux2_1/A1 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _242_/X                               |Net: _171_                                 
+  sky130_fd_sc_hd__mux2_1/A1 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _341_/Q                               |Net: _173_                                 
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/A2 = 1           |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _237_/X                               |Net: _175_                                 
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _252_/X                               |Net: _179_                                 
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _249_/X                               |Net: _193_                                 
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _243_/X                               |Net: _169_                                 
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _234_/X                               |Net: _177_                                 
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__mux4_2/X = 1            
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__mux2_1/A0 = 1           
+                                           |                                           
+Net: _359_/Q                               |Net: _190_                                 
+  sky130_fd_sc_hd__edfxtp_1/Q = 1          |  sky130_fd_sc_hd__nand2_1/Y = 1           
+  sky130_fd_sc_hd__mux4_2/A0 = 1           |  sky130_fd_sc_hd__nor2_1/B = 1            
+                                           |                                           
+Net: _375_/D                               |Net: _196_                                 
+  sky130_fd_sc_hd__edfxtp_1/D = 1          |  sky130_fd_sc_hd__a21oi_1/Y = 1           
+  sky130_fd_sc_hd__mux2_1/X = 1            |  sky130_fd_sc_hd__nor3_1/C = 1            
+                                           |                                           
+Net: _287_/Y                               |Net: _197_                                 
+  sky130_fd_sc_hd__o21a_1/B1 = 1           |  sky130_fd_sc_hd__a21oi_1/Y = 1           
+  sky130_fd_sc_hd__a21oi_1/Y = 1           |  sky130_fd_sc_hd__o21a_1/B1 = 1           
+                                           |                                           
+Net: _370_/D                               |Net: _092_                                 
+  sky130_fd_sc_hd__o21a_1/X = 1            |  sky130_fd_sc_hd__o21a_1/X = 1            
+  sky130_fd_sc_hd__dfxtp_1/D = 1           |  sky130_fd_sc_hd__dfxtp_1/D = 1           
+                                           |                                           
+Net: _286_/C                               |Net: _198_                                 
+  sky130_fd_sc_hd__nor3_1/C = 1            |  sky130_fd_sc_hd__nor2_1/Y = 1            
+  sky130_fd_sc_hd__a21oi_1/Y = 1           |  sky130_fd_sc_hd__nor3_1/C = 1            
+                                           |                                           
+Net: _268_/B                               |Net: _093_                                 
+  sky130_fd_sc_hd__nor2_1/B = 1            |  sky130_fd_sc_hd__nor3_1/Y = 1            
+  sky130_fd_sc_hd__nand2_1/Y = 1           |  sky130_fd_sc_hd__dfxtp_1/D = 1           
+                                           |                                           
+Net: _284_/C                               |Net: rd_ptr[0]                             
+  sky130_fd_sc_hd__nor3_1/C = 1            |  sky130_fd_sc_hd__mux2_1/S = 8            
+  sky130_fd_sc_hd__nor2_1/Y = 1            |  sky130_fd_sc_hd__xnor2_1/A = 1           
+                                           |  sky130_fd_sc_hd__and2_0/A = 1            
+                                           |  sky130_fd_sc_hd__nor2_1/A = 1            
+                                           |  sky130_fd_sc_hd__nand4_1/B = 1           
+                                           |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+                                           |                                           
+Net: _365_/D                               |Net: clknet_3_2__leaf_clk                  
+  sky130_fd_sc_hd__nor3_1/Y = 1            |  sky130_fd_sc_hd__edfxtp_1/CLK = 11       
+  sky130_fd_sc_hd__dfxtp_1/D = 1           |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+                                           |  sky130_fd_sc_hd__clkinv_1/A = 1          
+                                           |                                           
+Net: _245_/X                               |Net: wr_ptr[2]                             
+  sky130_fd_sc_hd__mux2_1/A1 = 1           |  sky130_fd_sc_hd__xnor2_1/B = 1           
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__nor2_1/A = 1            
+                                           |  sky130_fd_sc_hd__nand2b_1/B = 1          
+                                           |  sky130_fd_sc_hd__nor4b_1/C = 1           
+                                           |  sky130_fd_sc_hd__nor3b_1/A = 1           
+                                           |  sky130_fd_sc_hd__nor4_1/B = 1            
+                                           |  sky130_fd_sc_hd__and4b_1/B = 1           
+                                           |  sky130_fd_sc_hd__and4_1/B = 1            
+                                           |  sky130_fd_sc_hd__a21oi_1/B1 = 1          
+                                           |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+                                           |                                           
+Net: _246_/X                               |Net: clknet_3_5__leaf_clk                  
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |  sky130_fd_sc_hd__edfxtp_1/CLK = 3        
+  sky130_fd_sc_hd__mux4_2/X = 1            |  sky130_fd_sc_hd__dfxtp_1/CLK = 5         
+                                           |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+                                           |  sky130_fd_sc_hd__clkinvlp_4/A = 1        
+                                           |                                           
+Net: SUB                                   |Net: _194_                                 
+  sky130_fd_sc_hd__edfxtp_1/VNB = 72       |  sky130_fd_sc_hd__and2_0/X = 1            
+  sky130_fd_sc_hd__nor3_1/VNB = 6          |  sky130_fd_sc_hd__nor3_1/B = 1            
+  sky130_fd_sc_hd__mux2_1/VNB = 8          |  sky130_fd_sc_hd__and3_1/C = 1            
+  sky130_fd_sc_hd__clkbuf_4/VNB = 9        |  sky130_fd_sc_hd__a21oi_1/A2 = 2          
+  sky130_fd_sc_hd__a21oi_1/VNB = 4         |  sky130_fd_sc_hd__o21a_1/A2 = 1           
+  sky130_fd_sc_hd__mux4_2/VNB = 16         |                                           
+  sky130_fd_sc_hd__xnor2_1/VNB = 5         |                                           
+  sky130_fd_sc_hd__nand4_1/VNB = 2         |                                           
+  sky130_fd_sc_hd__xor2_1/VNB = 2          |                                           
+  sky130_fd_sc_hd__and3_1/VNB = 1          |                                           
+  sky130_fd_sc_hd__nor4_1/VNB = 1          |                                           
+  sky130_fd_sc_hd__nand3_1/VNB = 1         |                                           
+  sky130_fd_sc_hd__nor3b_1/VNB = 1         |                                           
+  sky130_fd_sc_hd__clkinv_2/VNB = 1        |                                           
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/VNB  |                                           
+  sky130_fd_sc_hd__clkinv_1/VNB = 5        |                                           
+  sky130_fd_sc_hd__nor4b_1/VNB = 1         |                                           
+  sky130_fd_sc_hd__clkbuf_1/VNB = 1        |                                           
+  sky130_fd_sc_hd__clkinvlp_4/VNB = 2      |                                           
+  sky130_fd_sc_hd__clkinv_4/VNB = 1        |                                           
+  sky130_fd_sc_hd__nor2_1/VNB = 7          |                                           
+  sky130_fd_sc_hd__conb_1/VNB = 1          |                                           
+  sky130_fd_sc_hd__o21a_1/VNB = 2          |                                           
+  sky130_fd_sc_hd__dfxtp_1/VNB = 8         |                                           
+  sky130_fd_sc_hd__nand2b_1/VNB = 1        |                                           
+  sky130_fd_sc_hd__nand2_1/VNB = 2         |                                           
+  sky130_fd_sc_hd__and2_0/VNB = 2          |                                           
+  sky130_fd_sc_hd__a41oi_1/VNB = 2         |                                           
+  sky130_fd_sc_hd__and4_1/VNB = 1          |                                           
+  sky130_fd_sc_hd__and4b_1/VNB = 1         |                                           
+                                           |                                           
+Net: _375_/VPB                             |Net: rd_ptr[3]                             
+  sky130_fd_sc_hd__nor3_1/VPB = 2          |  sky130_fd_sc_hd__xor2_1/B = 1            
+  sky130_fd_sc_hd__a21oi_1/VPB = 1         |  sky130_fd_sc_hd__xnor2_1/B = 1           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 6        |  sky130_fd_sc_hd__xor2_1/A = 1            
+  sky130_fd_sc_hd__and3_1/VPB = 1          |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+  sky130_fd_sc_hd__mux2_1/VPB = 2          |                                           
+  sky130_fd_sc_hd__clkinvlp_4/VPB = 1      |                                           
+  sky130_fd_sc_hd__nor2_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__and2_0/VPB = 1          |                                           
+                                           |                                           
+Net: _375_/VPWR                            |Net: _187_                                 
+  sky130_fd_sc_hd__nor3_1/VPWR = 2         |  sky130_fd_sc_hd__a41oi_1/Y = 1           
+  sky130_fd_sc_hd__a21oi_1/VPWR = 1        |  sky130_fd_sc_hd__and2_0/B = 1            
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 6       |  sky130_fd_sc_hd__and4b_1/D = 1           
+  sky130_fd_sc_hd__and3_1/VPWR = 1         |  sky130_fd_sc_hd__and4_1/D = 1            
+  sky130_fd_sc_hd__mux2_1/VPWR = 2         |  sky130_fd_sc_hd__nor2_1/B = 1            
+  sky130_fd_sc_hd__clkinvlp_4/VPWR = 1     |                                           
+  sky130_fd_sc_hd__nor2_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__and2_0/VPWR = 1         |                                           
+                                           |                                           
+Net: _375_/CLK                             |Net: dummy_176                             
+  sky130_fd_sc_hd__nor3_1/VGND = 1         |  sky130_fd_sc_hd__clkinv_2/proxyY = 1     
+  sky130_fd_sc_hd__a21oi_1/VGND = 2        |                                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 7       |                                           
+  sky130_fd_sc_hd__and3_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__edfxtp_1/CLK = 5        |                                           
+  sky130_fd_sc_hd__mux2_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__clkinvlp_4/VGND = 1     |                                           
+  sky130_fd_sc_hd__clkinvlp_4/A = 1        |                                           
+  sky130_fd_sc_hd__clkinv_1/VGND = 1       |                                           
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |                                           
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+  sky130_fd_sc_hd__dfxtp_1/CLK = 3         |                                           
+  sky130_fd_sc_hd__dfxtp_1/VGND = 2        |                                           
+                                           |                                           
+Net: _371_/Q                               |Net: dummy_177                             
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 3       |  sky130_fd_sc_hd__clkinv_2/proxyY = 1     
+  sky130_fd_sc_hd__edfxtp_1/VGND = 2       |                                           
+  sky130_fd_sc_hd__nor4_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__nor4_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__nor4_1/B = 1            |                                           
+  sky130_fd_sc_hd__nor3_1/VPWR = 2         |                                           
+  sky130_fd_sc_hd__nor3_1/B = 1            |                                           
+  sky130_fd_sc_hd__nor3b_1/VPWR = 1        |                                           
+  sky130_fd_sc_hd__nor3b_1/C_N = 1         |                                           
+  sky130_fd_sc_hd__nor3b_1/A = 1           |                                           
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/VGND |                                           
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/A =  |                                           
+  sky130_fd_sc_hd__xnor2_1/B = 1           |                                           
+  sky130_fd_sc_hd__nor4b_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__nor4b_1/VPWR = 1        |                                           
+  sky130_fd_sc_hd__nor4b_1/C = 1           |                                           
+  sky130_fd_sc_hd__mux4_2/VPWR = 1         |                                           
+  sky130_fd_sc_hd__nor3_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__clkinv_4/VPWR = 1       |                                           
+  sky130_fd_sc_hd__clkinv_4/VGND = 1       |                                           
+  sky130_fd_sc_hd__clkinv_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__nor2_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__nor2_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__o21a_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__o21a_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__o21a_1/A2 = 1           |                                           
+  sky130_fd_sc_hd__a21oi_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__a21oi_1/VGND = 2        |                                           
+  sky130_fd_sc_hd__a21oi_1/A2 = 2          |                                           
+  sky130_fd_sc_hd__nand2b_1/VGND = 1       |                                           
+  sky130_fd_sc_hd__nand2b_1/B = 1          |                                           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |                                           
+  sky130_fd_sc_hd__a21oi_1/B1 = 1          |                                           
+  sky130_fd_sc_hd__nor2_1/A = 1            |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__nand2_1/VGND = 2        |                                           
+  sky130_fd_sc_hd__nand2_1/B = 1           |                                           
+  sky130_fd_sc_hd__and2_0/X = 1            |                                           
+  sky130_fd_sc_hd__mux4_2/VGND = 1         |                                           
+  sky130_fd_sc_hd__and4_1/B = 1            |                                           
+  sky130_fd_sc_hd__and4b_1/VPWR = 1        |                                           
+  sky130_fd_sc_hd__and4b_1/B = 1           |                                           
+                                           |                                           
+Net: _378_/CLK                             |Net: _noconnect_1_                         
+  sky130_fd_sc_hd__edfxtp_1/CLK = 11       |  sky130_fd_sc_hd__clkinv_1/Y = 1          
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+  sky130_fd_sc_hd__clkinv_1/A = 1          |                                           
+                                           |                                           
+Net: _275_/X                               |Net: dummy_179                             
+  sky130_fd_sc_hd__mux2_1/VGND = 1         |  sky130_fd_sc_hd__clkinvlp_4/proxyY = 1   
+  sky130_fd_sc_hd__mux2_1/A1 = 1           |                                           
+  sky130_fd_sc_hd__mux4_2/VGND = 3         |                                           
+  sky130_fd_sc_hd__mux4_2/X = 1            |                                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 6       |                                           
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |                                           
+                                           |                                           
+Net: clk                                   |Net: clk                                   
+  sky130_fd_sc_hd__clkbuf_4/A = 1          |  sky130_fd_sc_hd__clkbuf_4/A = 1          
+                                           |                                           
+Net: _380_/VPB                             |Net: VGND                                  
+  sky130_fd_sc_hd__mux2_1/VPB = 1          |  sky130_fd_sc_hd__conb_1/VNB = 1          
+  sky130_fd_sc_hd__edfxtp_1/VPB = 9        |  sky130_fd_sc_hd__conb_1/VGND = 1         
+  sky130_fd_sc_hd__clkbuf_4/VPB = 1        |  sky130_fd_sc_hd__clkinv_1/VNB = 4        
+  sky130_fd_sc_hd__clkbuf_1/VPB = 1        |  sky130_fd_sc_hd__clkinv_1/VGND = 4       
+  sky130_fd_sc_hd__mux4_2/VPB = 1          |  sky130_fd_sc_hd__mux4_2/VNB = 16         
+                                           |  sky130_fd_sc_hd__mux4_2/VGND = 16        
+                                           |  sky130_fd_sc_hd__mux2_1/VGND = 8         
+                                           |  sky130_fd_sc_hd__mux2_1/VNB = 8          
+                                           |  sky130_fd_sc_hd__xnor2_1/VGND = 5        
+                                           |  sky130_fd_sc_hd__xnor2_1/VNB = 5         
+                                           |  sky130_fd_sc_hd__nand3_1/VNB = 1         
+                                           |  sky130_fd_sc_hd__nand3_1/VGND = 1        
+                                           |  sky130_fd_sc_hd__xor2_1/VNB = 2          
+                                           |  sky130_fd_sc_hd__xor2_1/VGND = 2         
+                                           |  sky130_fd_sc_hd__nor2_1/VNB = 7          
+                                           |  sky130_fd_sc_hd__nor2_1/VGND = 7         
+                                           |  sky130_fd_sc_hd__a41oi_1/VGND = 2        
+                                           |  sky130_fd_sc_hd__a41oi_1/VNB = 2         
+                                           |  sky130_fd_sc_hd__nand4_1/VNB = 2         
+                                           |  sky130_fd_sc_hd__nand4_1/VGND = 2        
+                                           |  sky130_fd_sc_hd__nand2_1/VNB = 2         
+                                           |  sky130_fd_sc_hd__nand2_1/VGND = 2        
+                                           |  sky130_fd_sc_hd__and2_0/VNB = 2          
+                                           |  sky130_fd_sc_hd__and2_0/VGND = 2         
+                                           |  sky130_fd_sc_hd__nand2b_1/VNB = 1        
+                                           |  sky130_fd_sc_hd__nand2b_1/VGND = 1       
+                                           |  sky130_fd_sc_hd__nor3_1/VNB = 6          
+                                           |  sky130_fd_sc_hd__nor3_1/VGND = 6         
+                                           |  sky130_fd_sc_hd__nor4b_1/VNB = 1         
+                                           |  sky130_fd_sc_hd__nor4b_1/VGND = 1        
+                                           |  sky130_fd_sc_hd__lpflow_isobufsrc_1/VNB  
+                                           |  sky130_fd_sc_hd__lpflow_isobufsrc_1/VGND 
+                                           |  sky130_fd_sc_hd__nor3b_1/VNB = 1         
+                                           |  sky130_fd_sc_hd__nor3b_1/VGND = 1        
+                                           |  sky130_fd_sc_hd__nor4_1/VNB = 1          
+                                           |  sky130_fd_sc_hd__nor4_1/VGND = 1         
+                                           |  sky130_fd_sc_hd__and4b_1/VGND = 1        
+                                           |  sky130_fd_sc_hd__and4b_1/VNB = 1         
+                                           |  sky130_fd_sc_hd__and4_1/VGND = 1         
+                                           |  sky130_fd_sc_hd__and4_1/VNB = 1          
+                                           |  sky130_fd_sc_hd__a21oi_1/VGND = 4        
+                                           |  sky130_fd_sc_hd__a21oi_1/VNB = 4         
+                                           |  sky130_fd_sc_hd__o21a_1/VNB = 2          
+                                           |  sky130_fd_sc_hd__o21a_1/VGND = 2         
+                                           |  sky130_fd_sc_hd__and3_1/VGND = 1         
+                                           |  sky130_fd_sc_hd__and3_1/VNB = 1          
+                                           |  sky130_fd_sc_hd__edfxtp_1/VGND = 72      
+                                           |  sky130_fd_sc_hd__edfxtp_1/VNB = 72       
+                                           |  sky130_fd_sc_hd__dfxtp_1/VNB = 8         
+                                           |  sky130_fd_sc_hd__dfxtp_1/VGND = 8        
+                                           |  sky130_fd_sc_hd__clkbuf_4/VGND = 9       
+                                           |  sky130_fd_sc_hd__clkbuf_4/VNB = 9        
+                                           |  sky130_fd_sc_hd__clkinv_2/VNB = 2        
+                                           |  sky130_fd_sc_hd__clkinv_2/VGND = 2       
+                                           |  sky130_fd_sc_hd__clkinv_4/VNB = 1        
+                                           |  sky130_fd_sc_hd__clkinv_4/VGND = 1       
+                                           |  sky130_fd_sc_hd__clkinvlp_4/VNB = 1      
+                                           |  sky130_fd_sc_hd__clkinvlp_4/VGND = 1     
+                                           |  sky130_fd_sc_hd__bufinv_16/VGND = 1      
+                                           |  sky130_fd_sc_hd__bufinv_16/VNB = 1       
+                                           |  sky130_fd_sc_hd__clkbuf_1/VGND = 1       
+                                           |  sky130_fd_sc_hd__clkbuf_1/VNB = 1        
+                                           |                                           
+Net: _377_/VPWR                            |Net: VDD                                   
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 8       |  sky130_fd_sc_hd__conb_1/VPB = 1          
+  sky130_fd_sc_hd__mux4_2/VPWR = 2         |  sky130_fd_sc_hd__conb_1/VPWR = 1         
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 2       |  sky130_fd_sc_hd__clkinv_1/VPB = 4        
+  sky130_fd_sc_hd__mux2_1/VPWR = 1         |  sky130_fd_sc_hd__clkinv_1/VPWR = 4       
+                                           |  sky130_fd_sc_hd__mux4_2/VPB = 16         
+                                           |  sky130_fd_sc_hd__mux4_2/VPWR = 16        
+                                           |  sky130_fd_sc_hd__mux2_1/VPWR = 8         
+                                           |  sky130_fd_sc_hd__mux2_1/VPB = 8          
+                                           |  sky130_fd_sc_hd__xnor2_1/VPWR = 5        
+                                           |  sky130_fd_sc_hd__xnor2_1/VPB = 5         
+                                           |  sky130_fd_sc_hd__nand3_1/VPB = 1         
+                                           |  sky130_fd_sc_hd__nand3_1/VPWR = 1        
+                                           |  sky130_fd_sc_hd__xor2_1/VPB = 2          
+                                           |  sky130_fd_sc_hd__xor2_1/VPWR = 2         
+                                           |  sky130_fd_sc_hd__nor2_1/VPB = 7          
+                                           |  sky130_fd_sc_hd__nor2_1/VPWR = 7         
+                                           |  sky130_fd_sc_hd__a41oi_1/VPWR = 2        
+                                           |  sky130_fd_sc_hd__a41oi_1/VPB = 2         
+                                           |  sky130_fd_sc_hd__nand4_1/VPB = 2         
+                                           |  sky130_fd_sc_hd__nand4_1/VPWR = 2        
+                                           |  sky130_fd_sc_hd__nand2_1/VPB = 2         
+                                           |  sky130_fd_sc_hd__nand2_1/VPWR = 2        
+                                           |  sky130_fd_sc_hd__and2_0/VPB = 2          
+                                           |  sky130_fd_sc_hd__and2_0/VPWR = 2         
+                                           |  sky130_fd_sc_hd__nand2b_1/VPB = 1        
+                                           |  sky130_fd_sc_hd__nand2b_1/VPWR = 1       
+                                           |  sky130_fd_sc_hd__nor3_1/VPB = 6          
+                                           |  sky130_fd_sc_hd__nor3_1/VPWR = 6         
+                                           |  sky130_fd_sc_hd__nor4b_1/VPB = 1         
+                                           |  sky130_fd_sc_hd__nor4b_1/VPWR = 1        
+                                           |  sky130_fd_sc_hd__lpflow_isobufsrc_1/VPB  
+                                           |  sky130_fd_sc_hd__lpflow_isobufsrc_1/VPWR 
+                                           |  sky130_fd_sc_hd__nor3b_1/VPB = 1         
+                                           |  sky130_fd_sc_hd__nor3b_1/VPWR = 1        
+                                           |  sky130_fd_sc_hd__nor4_1/VPB = 1          
+                                           |  sky130_fd_sc_hd__nor4_1/VPWR = 1         
+                                           |  sky130_fd_sc_hd__and4b_1/VPWR = 1        
+                                           |  sky130_fd_sc_hd__and4b_1/VPB = 1         
+                                           |  sky130_fd_sc_hd__and4_1/VPWR = 1         
+                                           |  sky130_fd_sc_hd__and4_1/VPB = 1          
+                                           |  sky130_fd_sc_hd__a21oi_1/VPWR = 4        
+                                           |  sky130_fd_sc_hd__a21oi_1/VPB = 4         
+                                           |  sky130_fd_sc_hd__o21a_1/VPB = 2          
+                                           |  sky130_fd_sc_hd__o21a_1/VPWR = 2         
+                                           |  sky130_fd_sc_hd__and3_1/VPWR = 1         
+                                           |  sky130_fd_sc_hd__and3_1/VPB = 1          
+                                           |  sky130_fd_sc_hd__edfxtp_1/VPWR = 72      
+                                           |  sky130_fd_sc_hd__edfxtp_1/VPB = 72       
+                                           |  sky130_fd_sc_hd__dfxtp_1/VPB = 8         
+                                           |  sky130_fd_sc_hd__dfxtp_1/VPWR = 8        
+                                           |  sky130_fd_sc_hd__clkbuf_4/VPWR = 9       
+                                           |  sky130_fd_sc_hd__clkbuf_4/VPB = 9        
+                                           |  sky130_fd_sc_hd__clkinv_2/VPB = 2        
+                                           |  sky130_fd_sc_hd__clkinv_2/VPWR = 2       
+                                           |  sky130_fd_sc_hd__clkinv_4/VPB = 1        
+                                           |  sky130_fd_sc_hd__clkinv_4/VPWR = 1       
+                                           |  sky130_fd_sc_hd__clkinvlp_4/VPB = 1      
+                                           |  sky130_fd_sc_hd__clkinvlp_4/VPWR = 1     
+                                           |  sky130_fd_sc_hd__bufinv_16/VPB = 1       
+                                           |  sky130_fd_sc_hd__bufinv_16/VPWR = 1      
+                                           |  sky130_fd_sc_hd__clkbuf_1/VPWR = 1       
+                                           |  sky130_fd_sc_hd__clkbuf_1/VPB = 1        
+                                           |                                           
+Net: _377_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/VPB = 8        |                                           
+  sky130_fd_sc_hd__mux4_2/VPB = 2          |                                           
+  sky130_fd_sc_hd__clkbuf_4/VPB = 2        |                                           
+  sky130_fd_sc_hd__mux2_1/VPB = 1          |                                           
+                                           |                                           
+Net: _379_/CLK                             |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/CLK = 11       |                                           
+  sky130_fd_sc_hd__clkinv_1/A = 1          |                                           
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+                                           |                                           
+Net: _370_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/VPB = 3        |                                           
+  sky130_fd_sc_hd__nor4_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__nor3_1/VPB = 2          |                                           
+  sky130_fd_sc_hd__nor3b_1/VPB = 1         |                                           
+  sky130_fd_sc_hd__nor4b_1/VPB = 1         |                                           
+  sky130_fd_sc_hd__mux4_2/VPB = 1          |                                           
+  sky130_fd_sc_hd__clkinv_4/VPB = 1        |                                           
+  sky130_fd_sc_hd__clkinv_1/VPB = 1        |                                           
+  sky130_fd_sc_hd__nor2_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__o21a_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__a21oi_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__and4b_1/VPB = 1         |                                           
+                                           |                                           
+Net: _371_/D                               |(no matching net)                          
+  sky130_fd_sc_hd__nor3_1/VGND = 2         |                                           
+  sky130_fd_sc_hd__nor3b_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__xnor2_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__mux4_2/VGND = 1         |                                           
+  sky130_fd_sc_hd__clkinv_1/VGND = 2       |                                           
+  sky130_fd_sc_hd__nor3_1/Y = 1            |                                           
+  sky130_fd_sc_hd__dfxtp_1/D = 1           |                                           
+  sky130_fd_sc_hd__dfxtp_1/VGND = 3        |                                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 3       |                                           
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |                                           
+  sky130_fd_sc_hd__and4_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__and4b_1/VGND = 1        |                                           
+                                           |                                           
+Net: _365_/Q                               |(no matching net)                          
+  sky130_fd_sc_hd__mux2_1/S = 8            |                                           
+  sky130_fd_sc_hd__nand4_1/B = 1           |                                           
+  sky130_fd_sc_hd__clkinv_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 3       |                                           
+  sky130_fd_sc_hd__xnor2_1/A = 1           |                                           
+  sky130_fd_sc_hd__mux2_1/VPWR = 2         |                                           
+  sky130_fd_sc_hd__nor2_1/A = 1            |                                           
+  sky130_fd_sc_hd__and2_0/A = 1            |                                           
+  sky130_fd_sc_hd__mux4_2/VPWR = 3         |                                           
+  sky130_fd_sc_hd__mux2_1/A0 = 1           |                                           
+  sky130_fd_sc_hd__mux4_2/X = 1            |                                           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |                                           
+                                           |                                           
+Net: _365_/VGND                            |(no matching net)                          
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |                                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 4       |                                           
+  sky130_fd_sc_hd__mux4_2/VGND = 2         |                                           
+  sky130_fd_sc_hd__clkinvlp_4/VGND = 1     |                                           
+  sky130_fd_sc_hd__dfxtp_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__o21a_1/VGND = 1         |                                           
+                                           |                                           
+Net: _359_/CLK                             |(no matching net)                          
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |                                           
+  sky130_fd_sc_hd__edfxtp_1/CLK = 8        |                                           
+  sky130_fd_sc_hd__clkinvlp_4/A = 1        |                                           
+                                           |                                           
+Net: _379_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 10      |                                           
+                                           |                                           
+Net: _379_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/VPB = 10       |                                           
+                                           |                                           
+Net: _319_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/VPB  |                                           
+  sky130_fd_sc_hd__nor3_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__mux4_2/VPB = 3          |                                           
+  sky130_fd_sc_hd__clkinvlp_4/VPB = 1      |                                           
+  sky130_fd_sc_hd__nand2b_1/VPB = 1        |                                           
+  sky130_fd_sc_hd__nand2_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 1        |                                           
+                                           |                                           
+Net: _319_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/VPWR |                                           
+  sky130_fd_sc_hd__nor3_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__mux4_2/VPWR = 3         |                                           
+  sky130_fd_sc_hd__clkinvlp_4/VPWR = 1     |                                           
+  sky130_fd_sc_hd__nand2b_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__nand2_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 1       |                                           
+                                           |                                           
+Net: _291_/C                               |(no matching net)                          
+  sky130_fd_sc_hd__a21oi_1/A2 = 2          |                                           
+  sky130_fd_sc_hd__and3_1/C = 1            |                                           
+  sky130_fd_sc_hd__nor3_1/B = 1            |                                           
+  sky130_fd_sc_hd__and2_0/X = 1            |                                           
+  sky130_fd_sc_hd__o21a_1/A2 = 1           |                                           
+                                           |                                           
+Net: _374_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 5       |                                           
+  sky130_fd_sc_hd__mux4_2/VPWR = 1         |                                           
+                                           |                                           
+Net: _374_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__edfxtp_1/VPB = 5        |                                           
+  sky130_fd_sc_hd__mux4_2/VPB = 1          |                                           
+                                           |                                           
+Net: _376_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__mux4_2/VPB = 3          |                                           
+  sky130_fd_sc_hd__clkbuf_4/VPB = 2        |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 2        |                                           
+                                           |                                           
+Net: _376_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__mux4_2/VPWR = 3         |                                           
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 2       |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 2       |                                           
+                                           |                                           
+Net: _372_/VGND                            |(no matching net)                          
+  sky130_fd_sc_hd__xnor2_1/VGND = 3        |                                           
+  sky130_fd_sc_hd__nand4_1/VGND = 2        |                                           
+  sky130_fd_sc_hd__nand3_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__mux2_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 4       |                                           
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |                                           
+  sky130_fd_sc_hd__mux4_2/VGND = 1         |                                           
+  sky130_fd_sc_hd__dfxtp_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__nor2_1/VGND = 2         |                                           
+  sky130_fd_sc_hd__and2_0/VGND = 1         |                                           
+  sky130_fd_sc_hd__nor3_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__a41oi_1/VGND = 2        |                                           
+                                           |                                           
+Net: _368_/Q                               |(no matching net)                          
+  sky130_fd_sc_hd__xnor2_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__xnor2_1/B = 1           |                                           
+  sky130_fd_sc_hd__nand4_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__nand4_1/D = 1           |                                           
+  sky130_fd_sc_hd__xor2_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__xor2_1/VGND = 2         |                                           
+  sky130_fd_sc_hd__xor2_1/B = 1            |                                           
+  sky130_fd_sc_hd__mux2_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 4       |                                           
+  sky130_fd_sc_hd__edfxtp_1/VGND = 4       |                                           
+  sky130_fd_sc_hd__mux4_2/VPWR = 1         |                                           
+  sky130_fd_sc_hd__edfxtp_1/DE = 8         |                                           
+  sky130_fd_sc_hd__nor2_1/VGND = 3         |                                           
+  sky130_fd_sc_hd__clkinv_1/VGND = 1       |                                           
+  sky130_fd_sc_hd__clkinv_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__conb_1/VGND = 1         |                                           
+  sky130_fd_sc_hd__conb_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__nor2_1/B = 1            |                                           
+  sky130_fd_sc_hd__and2_0/B = 1            |                                           
+  sky130_fd_sc_hd__a41oi_1/VPWR = 2        |                                           
+  sky130_fd_sc_hd__nor2_1/VPWR = 2         |                                           
+  sky130_fd_sc_hd__a41oi_1/Y = 1           |                                           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |                                           
+  sky130_fd_sc_hd__dfxtp_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__xnor2_1/VGND = 1        |                                           
+  sky130_fd_sc_hd__xor2_1/A = 1            |                                           
+                                           |                                           
+Net: _372_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__xnor2_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__nand4_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__xor2_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__mux2_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 4        |                                           
+  sky130_fd_sc_hd__mux4_2/VPB = 1          |                                           
+  sky130_fd_sc_hd__clkinv_1/VPB = 1        |                                           
+  sky130_fd_sc_hd__conb_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__a41oi_1/VPB = 2         |                                           
+  sky130_fd_sc_hd__nor2_1/VPB = 2          |                                           
+                                           |                                           
+Net: _378_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__mux4_2/VPB = 1          |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 2        |                                           
+  sky130_fd_sc_hd__nor2_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__xor2_1/VPB = 1          |                                           
+                                           |                                           
+Net: _378_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__mux4_2/VPWR = 1         |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 2       |                                           
+  sky130_fd_sc_hd__nor2_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__xor2_1/VPWR = 1         |                                           
+                                           |                                           
+Net: _289_/B                               |(no matching net)                          
+  sky130_fd_sc_hd__nor2_1/B = 1            |                                           
+  sky130_fd_sc_hd__and2_0/B = 1            |                                           
+  sky130_fd_sc_hd__a41oi_1/Y = 1           |                                           
+  sky130_fd_sc_hd__and4_1/D = 1            |                                           
+  sky130_fd_sc_hd__and4b_1/D = 1           |                                           
+                                           |                                           
+Net: _371_/VPB                             |(no matching net)                          
+  sky130_fd_sc_hd__nand3_1/VPB = 1         |                                           
+  sky130_fd_sc_hd__xnor2_1/VPB = 3         |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPB = 4        |                                           
+  sky130_fd_sc_hd__clkbuf_4/VPB = 2        |                                           
+  sky130_fd_sc_hd__clkinv_1/VPB = 1        |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPB = 1         |                                           
+  sky130_fd_sc_hd__nor2_1/VPB = 2          |                                           
+  sky130_fd_sc_hd__and2_0/VPB = 1          |                                           
+  sky130_fd_sc_hd__nor3_1/VPB = 1          |                                           
+  sky130_fd_sc_hd__and4_1/VPB = 1          |                                           
+                                           |                                           
+Net: _371_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__nand3_1/VPWR = 1        |                                           
+  sky130_fd_sc_hd__xnor2_1/VPWR = 3        |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 4       |                                           
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 2       |                                           
+  sky130_fd_sc_hd__clkinv_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__dfxtp_1/VPWR = 1        |                                           
+  sky130_fd_sc_hd__nor2_1/VPWR = 2         |                                           
+  sky130_fd_sc_hd__and2_0/VPWR = 1         |                                           
+  sky130_fd_sc_hd__nor3_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__and4_1/VPWR = 1         |                                           
+                                           |                                           
+Net: clkload0/Y                            |(no matching net)                          
+  sky130_fd_sc_hd__clkinv_2/Y = 1          |                                           
+                                           |                                           
+Net: clkload1/Y                            |(no matching net)                          
+  sky130_fd_sc_hd__clkinv_1/Y = 1          |                                           
+                                           |                                           
+Net: clkload6/Y                            |(no matching net)                          
+  sky130_fd_sc_hd__clkinv_1/Y = 1          |                                           
+                                           |                                           
+Net: clkload3/Y                            |(no matching net)                          
+  sky130_fd_sc_hd__clkinvlp_4/Y = 1        |                                           
+                                           |                                           
+Net: clkload5/Y                            |(no matching net)                          
+  sky130_fd_sc_hd__clkinvlp_4/Y = 1        |                                           
+                                           |                                           
+Net: _236_/VGND                            |(no matching net)                          
+  sky130_fd_sc_hd__mux4_2/VGND = 1         |                                           
+                                           |                                           
+Net: _380_/VPWR                            |(no matching net)                          
+  sky130_fd_sc_hd__mux2_1/VPWR = 1         |                                           
+  sky130_fd_sc_hd__edfxtp_1/VPWR = 9       |                                           
+  sky130_fd_sc_hd__clkbuf_4/VPWR = 1       |                                           
+  sky130_fd_sc_hd__clkbuf_1/VPWR = 1       |                                           
+  sky130_fd_sc_hd__mux4_2/VPWR = 1         |                                           
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: _270_/Y                               |Net: _085_                                 
+  sky130_fd_sc_hd__edfxtp_1/DE = 8         |  sky130_fd_sc_hd__edfxtp_1/DE = 8         
+  sky130_fd_sc_hd__nor3_1/Y = 1            |  sky130_fd_sc_hd__nor3_1/Y = 1            
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: _377_/CLK                             |Net: clknet_3_0__leaf_clk                  
+  sky130_fd_sc_hd__edfxtp_1/CLK = 13       |  sky130_fd_sc_hd__edfxtp_1/CLK = 13       
+  sky130_fd_sc_hd__clkbuf_4/X = 1          |  sky130_fd_sc_hd__clkbuf_4/X = 1          
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: _270_/C                               |Net: _191_                                 
+  sky130_fd_sc_hd__lpflow_isobufsrc_1/SLEE |  sky130_fd_sc_hd__lpflow_isobufsrc_1/SLEE 
+  sky130_fd_sc_hd__nor3_1/C = 1            |  sky130_fd_sc_hd__nor3_1/C = 1            
+  sky130_fd_sc_hd__nand2b_1/Y = 1          |  sky130_fd_sc_hd__nand2b_1/Y = 1          
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: _367_/Q                               |Net: rd_ptr[2]                             
+  sky130_fd_sc_hd__a21oi_1/B1 = 1          |  sky130_fd_sc_hd__a21oi_1/B1 = 1          
+  sky130_fd_sc_hd__mux4_2/S0 = 16          |  sky130_fd_sc_hd__mux4_2/S0 = 16          
+  sky130_fd_sc_hd__nand4_1/A = 1           |  sky130_fd_sc_hd__nand4_1/A = 1           
+  sky130_fd_sc_hd__and3_1/A = 1            |  sky130_fd_sc_hd__and3_1/A = 1            
+  sky130_fd_sc_hd__xnor2_1/A = 1           |  sky130_fd_sc_hd__xnor2_1/A = 1           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: _366_/Q                               |Net: rd_ptr[1]                             
+  sky130_fd_sc_hd__a21oi_1/A1 = 2          |  sky130_fd_sc_hd__a21oi_1/A1 = 2          
+  sky130_fd_sc_hd__mux4_2/S1 = 16          |  sky130_fd_sc_hd__mux4_2/S1 = 16          
+  sky130_fd_sc_hd__nand4_1/C = 1           |  sky130_fd_sc_hd__nand4_1/C = 1           
+  sky130_fd_sc_hd__and3_1/B = 1            |  sky130_fd_sc_hd__and3_1/B = 1            
+  sky130_fd_sc_hd__xnor2_1/A = 1           |  sky130_fd_sc_hd__xnor2_1/A = 1           
+  sky130_fd_sc_hd__dfxtp_1/Q = 1           |  sky130_fd_sc_hd__dfxtp_1/Q = 1           
+  sky130_fd_sc_hd__o21a_1/A1 = 1           |  sky130_fd_sc_hd__o21a_1/A1 = 1           
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: data_in[7]                            |Net: data_in[7]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: data_in[6]                            |Net: data_in[6]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: data_in[1]                            |Net: data_in[4]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: data_in[3]                            |Net: data_in[3]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: data_in[2]                            |Net: data_in[2]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: data_in[0]                            |Net: data_in[0]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: data_in[5]                            |Net: data_in[5]                            
+  sky130_fd_sc_hd__edfxtp_1/D = 8          |  sky130_fd_sc_hd__edfxtp_1/D = 8          
+                                           |                                           
+Net: rst                                   |Net: rst                                   
+  sky130_fd_sc_hd__nor3_1/A = 4            |  sky130_fd_sc_hd__nor3_1/A = 4            
+  sky130_fd_sc_hd__nor2_1/A = 2            |  sky130_fd_sc_hd__nor2_1/A = 2            
+  sky130_fd_sc_hd__a21oi_1/B1 = 2          |  sky130_fd_sc_hd__a21oi_1/B1 = 2          
+                                           |                                           
+Net: _359_/VGND                            |Net: _189_                                 
+  sky130_fd_sc_hd__mux4_2/VGND = 1         |  sky130_fd_sc_hd__and2_0/X = 1            
+  sky130_fd_sc_hd__edfxtp_1/VGND = 2       |  sky130_fd_sc_hd__nand2_1/B = 1           
+  sky130_fd_sc_hd__clkbuf_4/VGND = 1       |  sky130_fd_sc_hd__lpflow_isobufsrc_1/A =  
+  sky130_fd_sc_hd__nor3_1/VGND = 1         |  sky130_fd_sc_hd__nor3b_1/C_N = 1         
+  sky130_fd_sc_hd__nor2_1/VGND = 1         |  sky130_fd_sc_hd__a21oi_1/A2 = 2          
+  sky130_fd_sc_hd__and2_0/VGND = 1         |  sky130_fd_sc_hd__o21a_1/A2 = 1           
+  sky130_fd_sc_hd__mux2_1/VGND = 1         |  sky130_fd_sc_hd__nor3_1/B = 1            
+---------------------------------------------------------------------------------------
+DEVICE mismatches: Class fragments follow (with node fanout counts):
+Circuit 1: syn_fifo                        |Circuit 2: syn_fifo                        
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__clkinv_2:clkloa |Instance: clkload0                         
+  VNB = 167                                |  VNB = 334                                
+  VPB = 11                                 |  VPB = 334                                
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  A = 12                                   |  A = 12                                   
+  Y = 1                                    |  proxyY = 1                               
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkinv_1:clkloa |Instance: clkload2                         
+  VPB = 9                                  |  VNB = 334                                
+  VNB = 167                                |  VPB = 334                                
+  VGND = 12                                |  VPWR = 334                               
+  VPWR = 24                                |  VGND = 334                               
+  A = 13                                   |  A = 12                                   
+  Y = 1                                    |  proxyY = 1                               
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkinv_1:clkloa |Instance: clkload1                         
+  VPB = 17                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 18                                |  VGND = 334                               
+  VPWR = 17                                |  VPWR = 334                               
+  A = 13                                   |  A = 13                                   
+  Y = 1                                    |  Y = 1                                    
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkinvlp_4:clkl |Instance: clkload4                         
+  VNB = 167                                |  VNB = 334                                
+  VPB = 15                                 |  VPB = 334                                
+  VPWR = 15                                |  VPWR = 334                               
+  VGND = 27                                |  VGND = 334                               
+  A = 27                                   |  A = 10                                   
+  Y = 1                                    |  proxyY = 1                               
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkinvlp_4:clkl |Instance: clkload5                         
+  VNB = 167                                |  A = 11                                   
+  VPB = 10                                 |  VGND = 334                               
+  VPWR = 10                                |  VNB = 334                                
+  VGND = 10                                |  VPB = 334                                
+  A = 10                                   |  VPWR = 334                               
+  Y = 1                                    |                                           
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__and2_0:_282_    |Instance: _266_                            
+  VNB = 167                                |  VNB = 334                                
+  VPB = 15                                 |  VPB = 334                                
+  VPWR = 15                                |  VPWR = 334                               
+  VGND = 8                                 |  VGND = 334                               
+  X = 6                                    |  X = 8                                    
+  B = 48                                   |  B = 5                                    
+  A = 24                                   |  A = 9                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__nand2_1:_267_   |Instance: _267_                            
+  VPB = 10                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 51                                |  VGND = 334                               
+  VPWR = 10                                |  VPWR = 334                               
+  A = 12                                   |  A = 12                                   
+  Y = 2                                    |  Y = 2                                    
+  B = 51                                   |  B = 8                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__o21a_1:_288_    |Instance: _288_                            
+  VPB = 18                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 51                                |  VGND = 334                               
+  VPWR = 51                                |  VPWR = 334                               
+  A1 = 12                                  |  A1 = 12                                  
+  A2 = 51                                  |  A2 = 8                                   
+  B1 = 2                                   |  B1 = 2                                   
+  X = 2                                    |  X = 2                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__nor2_1:_283_    |Instance: _289_                            
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 8                                 |  VGND = 334                               
+  VPWR = 15                                |  VPWR = 334                               
+  A = 24                                   |  A = 9                                    
+  B = 48                                   |  B = 5                                    
+  Y = 2                                    |  Y = 2                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__lpflow_isobufsr |Instance: _272_                            
+  VPB = 10                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 51                                |  VGND = 334                               
+  VPWR = 10                                |  VPWR = 334                               
+  A = 51                                   |  A = 8                                    
+  SLEEP = 3                                |  SLEEP = 3                                
+  X = 9                                    |  X = 9                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__nor3b_1:_273_   |Instance: _273_                            
+  VPB = 18                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 18                                |  VGND = 334                               
+  VPWR = 51                                |  VPWR = 334                               
+  C_N = 51                                 |  C_N = 8                                  
+  B = 12                                   |  B = 12                                   
+  Y = 9                                    |  Y = 9                                    
+  A = 51                                   |  A = 10                                   
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__mux4_2:_276_    |Instance: _237_                            
+  VNB = 167                                |  VNB = 334                                
+  VPB = 7                                  |  VPB = 334                                
+  VGND = 8                                 |  VGND = 334                               
+  VPWR = 7                                 |  VPWR = 334                               
+  S0 = 21                                  |  S0 = 21                                  
+  A2 = 2                                   |  A2 = 2                                   
+  A3 = 2                                   |  A3 = 2                                   
+  S1 = 23                                  |  S1 = 23                                  
+  A1 = 2                                   |  A1 = 2                                   
+  A0 = 2                                   |  A0 = 2                                   
+  X = 2                                    |  X = 2                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__a21oi_1:_285_   |Instance: _287_                            
+  VPWR = 51                                |  VPWR = 334                               
+  VGND = 51                                |  VGND = 334                               
+  VPB = 18                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  A2 = 51                                  |  A2 = 8                                   
+  A1 = 12                                  |  A1 = 12                                  
+  B1 = 51                                  |  B1 = 8                                   
+  Y = 2                                    |  Y = 2                                    
+                                           |                                           
+Instance: sky130_fd_sc_hd__a21oi_1:_287_   |Instance: _285_                            
+  VPWR = 51                                |  VPWR = 334                               
+  VGND = 51                                |  VGND = 334                               
+  VPB = 18                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  A2 = 51                                  |  A2 = 8                                   
+  A1 = 12                                  |  A1 = 12                                  
+  B1 = 8                                   |  B1 = 10                                  
+  Y = 2                                    |  Y = 2                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_7__f_clk                
+  VGND = 18                                |  VGND = 334                               
+  VPWR = 17                                |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 9                                    |  X = 14                                   
+  VPB = 17                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_6__f_clk                
+  VGND = 27                                |  VGND = 334                               
+  VPWR = 14                                |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 27                                   |  X = 11                                   
+  VPB = 14                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_5__f_clk                
+  VGND = 13                                |  VGND = 334                               
+  VPWR = 7                                 |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 14                                   |  X = 10                                   
+  VPB = 7                                  |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_4__f_clk                
+  VGND = 12                                |  VGND = 334                               
+  VPWR = 13                                |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 13                                   |  X = 9                                    
+  VPB = 13                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_3__f_clk                
+  VGND = 20                                |  VGND = 334                               
+  VPWR = 17                                |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 13                                   |  X = 12                                   
+  VPB = 17                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_2__f_clk                
+  VGND = 12                                |  VGND = 334                               
+  VPWR = 13                                |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 12                                   |  X = 13                                   
+  VPB = 13                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_3_1__f_clk                
+  VGND = 10                                |  VGND = 334                               
+  VPWR = 14                                |  VPWR = 334                               
+  A = 9                                    |  A = 9                                    
+  X = 10                                   |  X = 12                                   
+  VPB = 14                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__clkbuf_4:clkbuf |Instance: clkbuf_0_clk                     
+  VGND = 8                                 |  VGND = 334                               
+  VPWR = 7                                 |  VPWR = 334                               
+  A = 1                                    |  A = 1                                    
+  X = 9                                    |  X = 9                                    
+  VPB = 7                                  |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__mux2_1:_244_    |Instance: _277_                            
+  VGND = 12                                |  VGND = 334                               
+  VPWR = 24                                |  VPWR = 334                               
+  VPB = 9                                  |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  X = 2                                    |  X = 2                                    
+  A1 = 2                                   |  A1 = 2                                   
+  S = 24                                   |  S = 13                                   
+  A0 = 2                                   |  A0 = 2                                   
+                                           |                                           
+Instance: sky130_fd_sc_hd__mux2_1:_250_    |Instance: _253_                            
+  VGND = 12                                |  VGND = 334                               
+  VPWR = 11                                |  VPWR = 334                               
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  X = 2                                    |  X = 2                                    
+  A1 = 2                                   |  A1 = 2                                   
+  S = 24                                   |  S = 13                                   
+  A0 = 2                                   |  A0 = 2                                   
+                                           |                                           
+Instance: sky130_fd_sc_hd__mux2_1:_253_    |Instance: _247_                            
+  VGND = 27                                |  VGND = 334                               
+  VPWR = 15                                |  VPWR = 334                               
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  X = 2                                    |  X = 2                                    
+  A1 = 2                                   |  A1 = 2                                   
+  S = 24                                   |  S = 13                                   
+  A0 = 2                                   |  A0 = 2                                   
+                                           |                                           
+Instance: sky130_fd_sc_hd__mux2_1:_238_    |Instance: _244_                            
+  VGND = 20                                |  VGND = 334                               
+  VPWR = 48                                |  VPWR = 334                               
+  VPB = 19                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  X = 2                                    |  X = 2                                    
+  A1 = 2                                   |  A1 = 2                                   
+  S = 24                                   |  S = 13                                   
+  A0 = 2                                   |  A0 = 2                                   
+                                           |                                           
+Instance: sky130_fd_sc_hd__mux2_1:_277_    |Instance: _241_                            
+  VGND = 13                                |  VGND = 334                               
+  VPWR = 13                                |  VPWR = 334                               
+  VPB = 13                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  X = 2                                    |  X = 2                                    
+  A1 = 13                                  |  A1 = 2                                   
+  S = 24                                   |  S = 13                                   
+  A0 = 2                                   |  A0 = 2                                   
+                                           |                                           
+Instance: sky130_fd_sc_hd__mux2_1:_247_    |Instance: _235_                            
+  VGND = 8                                 |  VGND = 334                               
+  VPWR = 15                                |  VPWR = 334                               
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  X = 2                                    |  X = 2                                    
+  A1 = 2                                   |  A1 = 2                                   
+  S = 24                                   |  S = 13                                   
+  A0 = 2                                   |  A0 = 2                                   
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__nor3_1:_284_    |Instance: _290_                            
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+  VGND = 8                                 |  VGND = 334                               
+  VPWR = 15                                |  VPWR = 334                               
+  C = 2                                    |  C = 2                                    
+  B = 6                                    |  B = 8                                    
+  A = 8                                    |  A = 8                                    
+  Y = 2                                    |  Y = 2                                    
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Instance: sky130_fd_sc_hd__edfxtp_1:_347_  |Instance: _364_                            
+  VPWR = 24                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 13                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 9                                  |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_364_  |Instance: _363_                            
+  VPWR = 7                                 |  VPWR = 334                               
+  VGND = 13                                |  VGND = 334                               
+  CLK = 12                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 7                                  |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_349_  |Instance: _362_                            
+  VPWR = 17                                |  VPWR = 334                               
+  VGND = 20                                |  VGND = 334                               
+  CLK = 13                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 17                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_350_  |Instance: _361_                            
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 14                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 12                                   |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_351_  |Instance: _360_                            
+  VPWR = 15                                |  VPWR = 334                               
+  VGND = 27                                |  VGND = 334                               
+  CLK = 10                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_352_  |Instance: _359_                            
+  VPWR = 6                                 |  VPWR = 334                               
+  VGND = 9                                 |  VGND = 334                               
+  CLK = 13                                 |  CLK = 11                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 6                                  |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_354_  |Instance: _357_                            
+  VPWR = 17                                |  VPWR = 334                               
+  VGND = 18                                |  VGND = 334                               
+  CLK = 13                                 |  CLK = 14                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 17                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_356_  |Instance: _356_                            
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 12                                 |  CLK = 13                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_357_  |Instance: _355_                            
+  VPWR = 14                                |  VPWR = 334                               
+  VGND = 27                                |  VGND = 334                               
+  CLK = 27                                 |  CLK = 9                                  
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 14                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_358_  |Instance: _353_                            
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 14                                 |  CLK = 13                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_342_  |Instance: _352_                            
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 14                                 |  CLK = 9                                  
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_343_  |Instance: _351_                            
+  VPWR = 14                                |  VPWR = 334                               
+  VGND = 10                                |  VGND = 334                               
+  CLK = 10                                 |  CLK = 11                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 14                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_360_  |Instance: _349_                            
+  VPWR = 13                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 14                                 |  CLK = 14                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 13                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_344_  |Instance: _348_                            
+  VPWR = 10                                |  VPWR = 334                               
+  VGND = 9                                 |  VGND = 334                               
+  CLK = 13                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 10                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_362_  |Instance: _347_                            
+  VPWR = 51                                |  VPWR = 334                               
+  VGND = 51                                |  VGND = 334                               
+  CLK = 13                                 |  CLK = 9                                  
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 18                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_346_  |Instance: _346_                            
+  VPWR = 51                                |  VPWR = 334                               
+  VGND = 51                                |  VGND = 334                               
+  CLK = 13                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 18                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_363_  |Instance: _345_                            
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 14                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_348_  |Instance: _344_                            
+  VPWR = 11                                |  VPWR = 334                               
+  VGND = 12                                |  VGND = 334                               
+  CLK = 14                                 |  CLK = 12                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 11                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_332_  |Instance: _343_                            
+  VPWR = 13                                |  VPWR = 334                               
+  VGND = 13                                |  VGND = 334                               
+  CLK = 12                                 |  CLK = 11                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 13                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_359_  |Instance: _341_                            
+  VPWR = 15                                |  VPWR = 334                               
+  VGND = 8                                 |  VGND = 334                               
+  CLK = 10                                 |  CLK = 14                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+                                           |                                           
+Instance: sky130_fd_sc_hd__edfxtp_1:_341_  |Instance: _330_                            
+  VPWR = 15                                |  VPWR = 334                               
+  VGND = 8                                 |  VGND = 334                               
+  CLK = 27                                 |  CLK = 14                                 
+  DE = 9                                   |  DE = 9                                   
+  Q = 2                                    |  Q = 2                                    
+  D = 8                                    |  D = 8                                    
+  VPB = 15                                 |  VPB = 334                                
+  VNB = 167                                |  VNB = 334                                
+---------------------------------------------------------------------------------------
+Netlists do not match.
+Port matching may fail to disambiguate symmetries.
+
+Subcircuit pins:
+Circuit 1: syn_fifo                        |Circuit 2: syn_fifo                        
+-------------------------------------------|-------------------------------------------
+Cell pin lists are equivalent.
+Device classes syn_fifo and syn_fifo are equivalent.
+
+Final result: Netlists do not match.
+Port matching may fail to disambiguate symmetries.

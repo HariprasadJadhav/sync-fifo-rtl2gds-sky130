@@ -1,0 +1,29 @@
+# simulation
+*.vcd
+fifo_sim
+
+# coverage (keep coverage_report.txt, ignore the database)
+*.cdd
+
+# Magic per-cell extraction
+*.ext
+
+# intermediate physical-design DEF checkpoints (keep only detailed_route.def)
+floorplan.def
+powerplan.def
+global_placement.def
+detailed_placement.def
+cts.def
+cts_legalized.def
+global_route.def
+
+# large regenerable intermediates
+*.spice
+*.spef
+route.guide
+congestion.rpt
+
+# stray artifacts
+ls
+-json
+check_report.txt

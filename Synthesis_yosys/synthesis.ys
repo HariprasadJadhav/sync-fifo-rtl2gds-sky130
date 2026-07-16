@@ -1,0 +1,112 @@
+#===============================================================
+# synthesis.ys
+# Yosys synthesis script: RTL -> generic gate-level -> sky130
+# technology-mapped netlist, for the synchronous FIFO (8 x 8-bit)
+#===============================================================
+#
+# USAGE:
+#   yosys -s synthesis.ys
+#
+# Update LIB_PATH below if the PDK location changes.
+#---------------------------------------------------------------
+
+#---------------------------------------------------------------
+# STAGE 1: Load and elaborate the RTL
+#---------------------------------------------------------------
+# Reads the Verilog source into Yosys's internal design database.
+# Nothing exists inside Yosys before this runs.
+read_verilog syn_fifo.v
+
+# Marks which module is the top of the hierarchy, and checks that
+# every referenced module actually exists. Must come AFTER
+# read_verilog -- can't mark a module "top" if nothing's been
+# loaded yet.
+hierarchy -top syn_fifo
+
+#---------------------------------------------------------------
+# STAGE 2: Generic (technology-independent) synthesis
+#---------------------------------------------------------------
+# These were run individually first (to see each transformation's
+# effect on `stat`), then replaced by the `synth` macro below,
+# which runs proc + opt + generic techmap + more opt internally.
+# Kept here as commented reference, not part of the normal flow.
+#
+# proc     -- converts always blocks into Yosys's internal
+#             structural process representation
+# opt      -- generic logic optimization / dead-code cleanup
+#
+# proc
+# opt
+
+# `synth -top syn_fifo` runs the full technology-independent
+# synthesis sequence in one shot (proc, opt, generic mapping,
+# further opt). At THIS stage, the memory array (`mem`) is still
+# an abstract $memrd/$memwr_v2 primitive, not yet flip-flops --
+# and all logic cells are Yosys's own generic placeholders
+# ($add, $mux, $dffe, $sdff, ...), NOT real fabricable gates.
+# This is a useful intermediate checkpoint but NOT yet a true
+# gate-level netlist.
+synth -top syn_fifo
+
+#---------------------------------------------------------------
+# STAGE 3: Technology mapping to the real sky130 standard cell library
+#---------------------------------------------------------------
+# Two separate mapping passes are needed -- order matters:
+#   1. dfflibmap FIRST -- maps generic flip-flops ($_DFFE_PP_,
+#      $_SDFF_PP0_, etc.) to real sky130 flip-flop cells.
+#   2. abc -liberty SECOND -- maps + re-optimizes the combinational
+#      logic using the real library. Doing this AFTER dfflibmap
+#      means ABC knows the real input capacitance of the flip-flops
+#      it's driving, so it can pick appropriately-sized combinational
+#      cells. Reversing the order means ABC optimizes against
+#      unknown/generic loads.
+#
+# Update this path if the PDK location changes:
+dfflibmap -liberty /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+abc -liberty /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+#---------------------------------------------------------------
+# STAGE 4: Reports and output
+#---------------------------------------------------------------
+# -liberty flag makes `stat` report real AREA (um^2), not just
+# generic cell counts.
+stat -liberty /home/hariprasadjadhav/asic/pdks/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+
+# Final gate-level netlist -- this is the actual deliverable of
+# this stage, and the input to STA (sta_run.tcl) and, later,
+# place-and-route.
+write_verilog syn_fifo_netlist_sky130.v
+
+#---------------------------------------------------------------
+# FINDINGS (from the sky130_fd_sc_hd__tt_025C_1v80 library run)
+#---------------------------------------------------------------
+# Total area: ~3.05e+03 um^2 (~3050 um^2)
+#   -> ~47.7 um^2 per memory bit (3050 / 64 mem bits), a useful
+#      normalized figure if ever comparing against a different
+#      DEPTH/WIDTH configuration.
+#
+# Flip-flop count: 80 total, split exactly as hand-derived from
+# the RTL's bit widths:
+#   - 8  x sky130_fd_sc_hd__dfxtp_1  (plain D-FF, no reset pin)
+#     -> rd_ptr (4b) + wr_ptr (4b) = 8 bits
+#   - 72 x sky130_fd_sc_hd__edfxtp_1 (enable D-FF, no reset pin)
+#     -> mem (8x8=64b) + data_out (8b) = 72 bits
+#   This split is NOT a coincidence -- it directly reflects that
+#   the pointer always-block has an `if(rst)` branch and the
+#   mem/data_out always-block does not. Confirmed safe via
+#   simulation: FIFO state is fully defined by the pointers, so
+#   mem/data_out not resetting doesn't create a functional bug
+#   (see rst_effect_tb.v experiment).
+#
+# No latch cells anywhere in the design (checked full cell list
+# for $_DLATCH_-equivalents) -- confirms all combinational logic
+# is fully specified in every branch, no accidental latch
+# inference.
+#
+# dfflibmap / abc logs: no real errors. The long lists of
+# "unmapped dff cell" and "skipped sequential/tri-state cell"
+# entries are Yosys/ABC enumerating library capability, not
+# reporting problems with THIS design -- confirmed by cross-
+# checking that every flip-flop/cell this design actually uses
+# WAS successfully mapped (72 + 8 dff mapping lines; ABC RESULTS
+# cell counts match the `stat` report exactly).
